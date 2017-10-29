@@ -35,3 +35,35 @@ li#item1 {
 li#item2 {
     text-align: right;
 }
+
+ol ul {
+    /* padding: 2px; */
+    background: white;
+}
+
+ol {}
+
+ol p a {
+    text-decoration: none;
+}
+
+ul {
+    background: white;
+}
+
+ol {
+    padding: 3px;
+    background: grey;
+}
+
+li:nth-child(2n+1) {
+    background: green;
+}
+
+ol ul:hover {
+    background: yellow;
+}
+
+ol ul:active {
+    background: red;
+}
