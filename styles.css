@@ -27,3 +27,11 @@ ul.class-list {
     background: black;
     color: white;
 }
+
+li#item1 {
+    font-size: 30px;
+}
+
+li#item2 {
+    text-align: right;
+}
